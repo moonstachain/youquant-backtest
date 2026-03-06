@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouQuant Backtest"
+  short_description: "优宽策略落地与回测自动化"
+  default_prompt: "Use $youquant-backtest-automation to turn a natural-language strategy into a YouQuant backtest run."
